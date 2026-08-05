@@ -26,13 +26,21 @@
 
 ---
 
+<!-- ABOUT ME - PERSONALITY DRIVEN -->
+## 🧠 `who am I`
+
+```yaml
 Name        : Siva Rama Krishna Kotipalli
 Location    : Mylavaram, Andhra Pradesh, India 🇮🇳
-Currently   :Lakireddy bali reddy college of engineering
-  - 🔨 Building production-ready AI & Software applications
-  - 🧪 Exploring Machine Learning, NLP & Full-Stack Tech
-  - 🏆 Solving complex algorithmic & real-world problems
+University  : Lakireddy Bali Reddy College of Engineering
+
+
+Currently   :
+  - 🔨 Building production-ready AI tools (not just notebooks)
+  - 🧪 Exploring LLMs, Explainable AI & NLP pipelines
+  - 🏆 Competing at national-level hackathons
+  
 
 Philosophy  : "The best AI tool is the one that's actually deployed."
 
-Open To     : Internships | Collaborations | Tech Projects
+Open To     : Internships | Collaborations | Cool AI Side Projects
