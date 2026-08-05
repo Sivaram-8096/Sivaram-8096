@@ -37,6 +37,3 @@ Currently   :
 Philosophy  : "The best AI tool is the one that's actually deployed."
 
 Open To     : Internships | Collaborations | Cool AI Side Projects
-<!-- THIN ACCENT LINE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00D9FF15&height=3"/>
-
