@@ -39,11 +39,6 @@ Currently   :
   - 🎓 Wrapping up my final year while shipping real projects
   - 🔨 Building production-ready AI tools (not just notebooks)
   - 🧪 Exploring Computer Vision, LLMs & Medical AI
-  - 🏆 Competing at national-level hackathons
-
-Philosophy  : "The best AI tool is the one that's actually deployed."
-
-Open To     : Internships | Full-Time Roles (Upon Graduation) | Collaborations
 
 Philosophy  : "The best AI tool is the one that's actually deployed."
 
