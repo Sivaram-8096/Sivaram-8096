@@ -1,5 +1,5 @@
 <!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=200&section=header&text=Siva%20Rama%20Krishna%20Kotipalli&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=200&section=header&text=Siva%20Rama%20Krishna%20Kotipalli&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- ANIMATED TYPING -->
 <div align="center">
