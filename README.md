@@ -23,7 +23,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sivaram-8096&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS"/>
 </div>
-
 ---
 
 <!-- ABOUT ME - PERSONALITY DRIVEN -->
